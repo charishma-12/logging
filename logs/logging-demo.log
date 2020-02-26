@@ -1,0 +1,31 @@
+Enter values for principal Amount,time,rate of interest
+Simple interest is : 60.0
+Compound Interest is : 1900.495
+Enter values for principal Amount,time,rate of interest
+10
+20
+30.0
+Simple interest is : 60.0
+Compound Interest is : 1900.495
+Enter values for principal Amount,time,rate of interest
+Entered amount is : 10
+Entered period of  time is:20
+Entered rate of interest is :30.0
+Simple interest is : 60.0
+Compound Interest is : 1900.495
+enter area of the House and material Type required among
+1.standard
+2.above standard
+3.high standard
+4.high standard and automated
+Entered area of the house is :4.0
+ Chosen type is : 4
+Total cost is : 10000.0
+enter area of the House and material Type required among
+1.standard
+2.above standard
+3.high standard
+4.high standard and automated
+Entered area of the house is :1.0
+Chosen type is : 1
+Total cost is : 1200.0
